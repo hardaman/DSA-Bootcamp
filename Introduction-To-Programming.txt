@@ -1,0 +1,33 @@
+/*
+Introduction To Programming
+
+Types Of Languages :
+
+Procedural - In form of procedures, well - structured steps in order to compose a program.
+           - Systematic order of statements, functions &  commands.
+          
+Functional - Program writeen in pure functions, in which we don't mdoy variables.
+           - Used where we perform a lot of operations on the same set of data.
+          
+Object - Oriented - It revolves around the object, in which code + data gives object.
+       - Easier to develop, debug, reuse and maintain software.
+      
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Static & Dynamic Languages :
+
+Static - Perform type checking at compile time only because of which it catches errors at the compile time only.
+       - As we have to declare what type of variable the object is, it takes more time but we have more control in this.
+
+Dynamic - Perform type checking at Run time and decides at run time that kind of variable an object is.
+s.
+        - Takes less time as we don't have to mention that what kind of variable an object is but it might gie more errors during the run-time.      
+           
+-------------------------------------------------------------------------------------------------------------------------------------------------                         
+
+Instances :
+if we assign a variable a = 10;
+the above statement means 'a' here is the refernce variable in the Stack Memory and it is pointing to the value of 10 in the heap memory.
+
+When there is no reference variable for an object then the object is hit by garbage collection and gets removed from th memory.
+*/
